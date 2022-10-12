@@ -43,6 +43,7 @@ module.exports = [
           { text: 'pure-admin-utils', link: '/pages/pure-admin-utils/' },
           { text: 'responsive-storage', link: '/pages/responsive-storage/' },
           { text: 'pure-admin-release', link: '/pages/pure-admin-release/' },
+          { text: 'pure-thin-cli', link: '/pages/pure-thin-cli/' },
         ]
       },
       {
@@ -55,7 +56,7 @@ module.exports = [
   {
     text: '相关链接', link: '',
     items: [
-      { text: 'GitHub完整版预览', link: 'https://vue-pure-admin.vercel.app' },
+      { text: 'GitHub完整版预览', link: 'http://yiming_chang.gitee.io/vue-pure-admin' },
       { text: 'GitHub完整版源码', link: 'https://github.com/xiaoxian521/vue-pure-admin' },
       { text: 'GitHub精简版源码', link: 'https://github.com/xiaoxian521/pure-admin-thin' },
       { text: 'GitHub Tauri版源码', link: 'https://github.com/xiaoxian521/tauri-pure-admin' },
